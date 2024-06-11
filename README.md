@@ -2,7 +2,7 @@
 
 
 # Description:
-Created the frontend of OLX with the help of HTML & CSS have uploaded the code and sample video bellow.
+Created the clone of OLX with the help of HTML & CSS have uploaded the code and sample video bellow.
 
 
 
